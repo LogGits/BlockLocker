@@ -26,6 +26,7 @@ updater: AUTO_INSTALL
 protectableContainers:
 - anvil
 - beacon
+- shulker_box
 - black_shulker_box
 - blue_shulker_box
 - brewing_stand
